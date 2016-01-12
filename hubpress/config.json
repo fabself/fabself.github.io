@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "fabself",
-    "repositoryName": "fabself.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"fabself","repositoryName":"fabself.github.io","branch":"master","delay":"2000"},"site":{"postsPerPage":"5","url":"https://fabself.github.io"},"socialnetwork":{"email":"zhangjingcreate@gmail.com"},"theme":{"name":"Casper","url":"//fabself.github.io/themes/Casper"}}
