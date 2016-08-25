@@ -1,6 +1,7 @@
 :sectnums:
 = Groovy 开发包
-:hp-tags: Groovy
+:hp-tags: Groovy dev
+
 
 .原文
 http://www.groovy-lang.org/groovy-dev-kit.html
